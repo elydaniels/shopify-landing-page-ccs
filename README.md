@@ -1,5 +1,3 @@
-# shopify-landing-page-ccs
-- Shopify Landing page using HTML and CSS
 
 # Shopify-Landing-page-ccs Project
 Going through basic git push, firebase hosting, and basit git format.
